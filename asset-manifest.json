@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manikantamalloju/todo-app.git/static/css/main.9fa9d282.css",
+    "main.js": "/manikantamalloju/todo-app.git/static/js/main.b4271209.js",
+    "index.html": "/manikantamalloju/todo-app.git/index.html",
+    "main.9fa9d282.css.map": "/manikantamalloju/todo-app.git/static/css/main.9fa9d282.css.map",
+    "main.b4271209.js.map": "/manikantamalloju/todo-app.git/static/js/main.b4271209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa9d282.css",
+    "static/js/main.b4271209.js"
+  ]
+}
